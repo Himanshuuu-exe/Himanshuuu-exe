@@ -1,8 +1,6 @@
 ## Hi there 👋
 ## From Himanshu Chandel aka Himanshuuu-exe 
 
----
-
 # Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Himanshuuu_exe)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandel-38a3402a2)  
