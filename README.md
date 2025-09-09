@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Himanshuuu-exe/Himanshuuu-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+→ I’m currently exploring backend + frontend projects to strengthen my full-stack skills.  
+→ Open to collaborating on DSA practice, web apps, or open-source projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently Learning
+→ Mastering DSA step by step.  
+→ Building projects with Node.js + React.js.  
+→ Understanding how frontend & backend connect in real-world apps.  
+
+---
+
+# Tech Stack
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)  
+![JSX](https://img.shields.io/badge/JSX-000000?style=for-the-badge&logo=react&logoColor=white)  
+
+---
+
+# Socials
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Himanshuuu_exe)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandel-38a3402a2)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Himanshuuu_exe/)  
+
+---
+
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Himanshuuu-exe&show_icons=true&theme=graywhite&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuuu-exe&theme=graywhite&hide_border=true)  
+
