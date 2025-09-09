@@ -1,5 +1,5 @@
 ## Hi there 👋
-## From Himanshu Chandel aka Himanshu_exe 
+## From Himanshu Chandel aka Himanshuuu-exe 
 
 ---
 
