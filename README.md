@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is Himanshu Chandel aka Himanshuuu-exe 
+## This is Himanshu Chandel aka @Himanshuuu-exe 
 
 # Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Himanshuuu_exe)  
